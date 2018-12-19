@@ -10,8 +10,8 @@ function handleClick(button) {
     // Note that it is not guaranteed your customers will be redirected to this
     // URL *100%* of the time, it's possible that they could e.g. close the
     // tab between form submission and the redirect.
-    successUrl: 'https://mikeshaw.ngrok.io/success',
-    cancelUrl: 'https://mikeshaw.ngrok.io',
+    successUrl: 'https://mandshaw.github.io/success',
+    cancelUrl: 'https://mandshaw.github.io',
     })
     .then(function (result) {
       if (result.error) {
